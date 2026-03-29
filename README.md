@@ -1,0 +1,2 @@
+# Industry-4.0-enabled-embedded-industrial-automation-safety-system-using-iot-platform
+An Industry 4.0-based smart automation system integrating an LPC2129 microcontroller with Arduino IoT Cloud for real-time industrial monitoring and remote actuator control.  This project demonstrates a scalable cyber-physical system where industrial devices are controlled via cloud dashboard while temperature data is processed at the edge.
