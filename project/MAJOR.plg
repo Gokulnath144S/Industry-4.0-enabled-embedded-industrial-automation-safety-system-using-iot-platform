@@ -1,0 +1,187 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\v25ce3g1\ARM\project\MAJOR.uvproj
+Project File Date:  02/25/2026
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+compiling spi.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+spi.c(17): warning:  #550-D: variable "stat" was set but never used
+spi.c:          unsigned char stat;
+spi.c:                        ^
+spi.c: spi.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6292 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+compiling spi.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+spi.c(17): warning:  #550-D: variable "stat" was set but never used
+spi.c:          unsigned char stat;
+spi.c:                        ^
+spi.c: spi.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6288 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=6288 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+compiling spi.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+spi.c(17): warning:  #550-D: variable "stat" was set but never used
+spi.c:          unsigned char stat;
+spi.c:                        ^
+spi.c: spi.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6272 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=6272 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+linking...
+Program Size: Code=6272 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+compiling spi.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+spi.c(17): warning:  #550-D: variable "stat" was set but never used
+spi.c:          unsigned char stat;
+spi.c:                        ^
+spi.c: spi.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6272 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+linking...
+Program Size: Code=6280 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=6280 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+linking...
+Program Size: Code=6280 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+compiling spi.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+spi.c(17): warning:  #550-D: variable "stat" was set but never used
+spi.c:          unsigned char stat;
+spi.c:                        ^
+spi.c: spi.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6276 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+compiling spi.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+spi.c(17): warning:  #550-D: variable "stat" was set but never used
+spi.c:          unsigned char stat;
+spi.c:                        ^
+spi.c: spi.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6276 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling major.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+defines.h: major.c: 1 warning, 0 errors
+compiling spi.c...
+defines.h(14): warning:  #1-D: last line of file ends without a newline
+defines.h:    #endif
+defines.h:          ^
+spi.c(17): warning:  #550-D: variable "stat" was set but never used
+spi.c:          unsigned char stat;
+spi.c:                        ^
+spi.c: spi.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=6152 RO-data=32 RW-data=8 ZI-data=1256  
+FromELF: creating hex file...
+"MAJOR.axf" - 0 Error(s), 3 Warning(s).

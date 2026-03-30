@@ -1,0 +1,21 @@
+*** Creating Trace Output File 'MAJOR.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"major.o"'
+### List of Objects: adding '"spi.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "major.o" "spi.o" --strict --scatter "MAJOR.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\MAJOR.map" -o "MAJOR.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'MAJOR.axf'
+### ADS-LD Command File: 'MAJOR.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'MAJOR.lnp', Handle=0x00000368
+### Writing '.lnp' file
+### ADS-LD Command file 'MAJOR.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
