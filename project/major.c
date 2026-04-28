@@ -109,7 +109,7 @@ int main()
  {
   	T1MR0=15000000-1;
 	T1MCR=0x03;
-	VICIntSelect&=~(1<<5);;
+	VICIntSelect&=~(1<<5);
 	VICVectCntl1=(0x20)|5;
 	
 	VICVectAddr1=(unsigned long)timer_isr;
